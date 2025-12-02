@@ -8,9 +8,9 @@ I'm an aspiring Infrastructure & DevOps Engineer focused on building and maintai
   <img src="https://komarev.com/ghpvc/?username=Hasintha01&label=Profile%20views&color=0e75b6&style=flat" alt="Hasintha01" />
 </p>
 
-- 🌱 I'm currently exploring **Infrastructure Monitoring, Configuration Management, Cloud Infrastructure Services, and System Automation**
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Hasintha01?tab=repositories)
-- 📫 How to reach me **hasinthapasindu20@gmail.com**
+- I'm currently exploring **Infrastructure Monitoring, Configuration Management, Cloud Infrastructure Services, and System Automation**
+- All of my projects are available at [My Repositories](https://github.com/Hasintha01?tab=repositories)
+- How to reach me **hasinthapasindu20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,16 +26,24 @@ I'm an aspiring Infrastructure & DevOps Engineer focused on building and maintai
 
 <h3 align="left">Programming & Development:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,react,express,php,kotlin,c,cpp,html,css" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,react,express,php,kotlin,c,cpp,html,css" alt="Programming Languages" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasintha01&show_icons=true&locale=en&layout=compact" alt="Hasintha01" />
+<br clear="both"/>
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasintha01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hasintha01&show_icons=true&locale=en" alt="Hasintha01" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasintha01&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hasintha01&" alt="Hasintha01" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasintha01&theme=radical" alt="GitHub Streak" />
+</p>
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hasintha01&limit=5&theme=flat&combine_all_yearly_contributions=true)
