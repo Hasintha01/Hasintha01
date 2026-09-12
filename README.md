@@ -1,49 +1,29 @@
-<h3 align="center">
-I'm an aspiring Infrastructure & DevOps Engineer focused on building and maintaining reliable, automated, and scalable managed infrastructure services. Passionate about cloud operations, CI/CD pipelines, infrastructure automation, and system administration to ensure optimal service availability and performance.
-</h3>
+# Hi, I'm Hasintha
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+**DevOps / Cloud Engineer**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Hasintha01&label=Profile%20views&color=0e75b6&style=flat" alt="Hasintha01" />
-</p>
+I work in Managed Infrastructure Services at MillenniumIT ESP, focusing on cloud infrastructure, automation, monitoring, and reliable systems.
 
-- I'm currently exploring **Infrastructure Monitoring, Configuration Management, Cloud Infrastructure Services, and System Automation**
-- All of my projects are available at [My Repositories](https://github.com/Hasintha01?tab=repositories)
-- How to reach me **hasinthapasindu20@gmail.com**
+## Currently
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/hasintha-pasindu/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+- Building and automating cloud infrastructure on AWS
+- Working with Kubernetes, Terraform, Linux, and Python
+- Deepening my knowledge of SRE, platform engineering, and cloud-native systems
 
-<h3 align="left">Infrastructure & Cloud Technologies:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,bash,python,git,jenkins,mongodb,postman" alt="Infrastructure Technologies" />
-</p>
+## Technologies
 
-<h3 align="left">Programming & Development:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,react,express,php,kotlin,c,cpp,html,css" alt="Programming Languages" />
-</p>
+**Cloud & Infrastructure**
 
-<br clear="both"/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux" alt="AWS, Terraform, Kubernetes, Docker, Linux" height="40" />
 
-<h3 align="left">GitHub Stats:</h3>
+**Automation & Development**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hasintha01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,bash,git,github" alt="Python, Bash, Git, GitHub" height="40" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasintha01&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+**Monitoring & Operations**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasintha01&theme=radical" alt="GitHub Streak" />
-</p>
+CloudWatch · Grafana · Prometheus · PRTG
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hasintha01&limit=5&theme=flat&combine_all_yearly_contributions=true)
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/hasintha-pasindu/) · [Email](mailto:hasinthapasindu20@gmail.com)
