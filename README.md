@@ -32,9 +32,10 @@ I work in Managed Infrastructure Services at MillenniumIT ESP, focusing on cloud
 
 ## Connect
 
+**[hasinthapasindu.me](https://hasinthapasindu.me)**
+
 <p>
-  <a href="https://hasinthapasindu.me"><img src="https://api.iconify.design/lucide/globe.svg?color=%2364748b" alt="" width="18" height="18" /> Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/hasintha-pasindu/"><img src="https://api.iconify.design/lucide/linkedin.svg?color=%2364748b" alt="" width="18" height="18" /> LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://medium.com/@hasinthapasindu"><img src="https://api.iconify.design/lucide/pen-line.svg?color=%2364748b" alt="" width="18" height="18" /> Writing</a> &nbsp;·&nbsp;
-  <a href="mailto:hasinthapasindu20@gmail.com"><img src="https://api.iconify.design/lucide/mail.svg?color=%2364748b" alt="" width="18" height="18" /> Email</a>
+  <a href="https://www.linkedin.com/in/hasintha-pasindu/"><img src="https://api.iconify.design/lucide/linkedin.svg?color=%2364748b" alt="" width="14" height="14" /> LinkedIn</a> &nbsp;&nbsp;
+  <a href="https://medium.com/@hasinthapasindu"><img src="https://api.iconify.design/lucide/pen-line.svg?color=%2364748b" alt="" width="14" height="14" /> Writing</a> &nbsp;&nbsp;
+  <a href="mailto:hasinthapasindu20@gmail.com"><img src="https://api.iconify.design/lucide/mail.svg?color=%2364748b" alt="" width="14" height="14" /> Email</a>
 </p>
