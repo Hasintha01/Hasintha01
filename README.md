@@ -8,6 +8,8 @@ I work in Managed Infrastructure Services at MillenniumIT ESP, focusing on cloud
 
 - Building and automating cloud infrastructure on AWS
 - Working with Kubernetes, Terraform, Linux, and Python
+- Maintaining an Ubuntu-based monitoring homelab with Prometheus and Grafana
+- Applying software engineering to internal tools, shift-handover workflows, and operational automation as I grow in platform engineering
 - Deepening my knowledge of SRE, platform engineering, and cloud-native systems
 
 ## Technologies
@@ -18,7 +20,7 @@ I work in Managed Infrastructure Services at MillenniumIT ESP, focusing on cloud
 
 **Automation & Development**
 
-<img src="https://skillicons.dev/icons?i=python,bash,git,github" alt="Python, Bash, Git, GitHub" height="40" />
+<img src="https://skillicons.dev/icons?i=python,bash,git,github,githubactions" alt="Python, Bash, Git, GitHub, GitHub Actions" height="40" />
 
 **Monitoring & Operations**
 
@@ -30,4 +32,4 @@ I work in Managed Infrastructure Services at MillenniumIT ESP, focusing on cloud
 
 ## Connect
 
-[Portfolio](https://hasinthapasindu.me) · [LinkedIn](https://www.linkedin.com/in/hasintha-pasindu/) · [Email](mailto:hasinthapasindu20@gmail.com)
+[Portfolio](https://hasinthapasindu.me) · [LinkedIn](https://www.linkedin.com/in/hasintha-pasindu/) · [Writing](https://medium.com/@hasinthapasindu) · [Email](mailto:hasinthapasindu20@gmail.com)
