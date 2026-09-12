@@ -22,8 +22,12 @@ I work in Managed Infrastructure Services at MillenniumIT ESP, focusing on cloud
 
 **Monitoring & Operations**
 
-CloudWatch · Grafana · Prometheus · PRTG
+<p>
+  <img src="https://api.iconify.design/logos/aws-cloudwatch.svg" alt="" width="20" height="20" /> CloudWatch &nbsp;·&nbsp;
+  <img src="https://api.iconify.design/logos/grafana.svg" alt="" width="20" height="20" /> Grafana &nbsp;·&nbsp;
+  <img src="https://api.iconify.design/logos/prometheus.svg" alt="" width="20" height="20" /> Prometheus
+</p>
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/hasintha-pasindu/) · [Email](mailto:hasinthapasindu20@gmail.com)
+[Portfolio](https://hasinthapasindu.me) · [LinkedIn](https://www.linkedin.com/in/hasintha-pasindu/) · [Email](mailto:hasinthapasindu20@gmail.com)
